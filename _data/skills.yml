@@ -1,21 +1,30 @@
-languages:
-  - item: JavaScript (ES6)
+languages:  
   - item: MATLAB
+  - item: C++
+  - item: VHDL
+  - item: ARM
+  - item: Python
+  - item: JavaScript (ES6)
   - item: HTML
   - item: CSS/Sass
-  - item: Python
-  - item: VHDL
-  - item: C++
+
+sklills:
+  - item: Circuit Analysis
+  - item: Embedded Systems
+  - item: Computer Organization
+  - item: Digital Signal Processing
+  - item: Control Systems
+  - item: Power Systems
+
+tools:
+  - item: PSpice
+  - item: Simulink
+  - item: CAD
+  - item: Git & Github
+  - item: MongoDB
 
 frameworks:
   - item: React
   - item: Jekyll
   - item: Node
   - item: Wordpress
-
-tools:
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: MongoDB
-
