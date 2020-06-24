@@ -7,7 +7,7 @@ baseurl: ''
 email: adilmodan@gmail.com
 cover: https://adilmodan.github.io/img/og.png
 logo: https://adilmodan.github.io/img/emojis/technologist.png
-resume: https://adilmodan.github.io/Resume.pdf
+resume: https://adilmodan.github.io/resume.pdf
 social:
   - title: email
     url: mailto:adilmodan@gmail.com
