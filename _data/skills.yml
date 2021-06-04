@@ -1,29 +1,23 @@
 languages:  
-  - item: MATLAB
-  - item: C++
-  - item: VHDL
-  - item: ARM
   - item: Python
   - item: JavaScript (ES6)
-  - item: HTML
-  - item: CSS/Sass
+  - item: Java
+  - item: ARM
 
 skills:
-  - item: Circuit Analysis
-  - item: Embedded Systems
-  - item: Computer Organization
-  - item: Digital Signal Processing
-  - item: Control Systems
-  - item: Power Systems
+  - item: Web Development
+  - item: Data Modeling and Analysis
+  - item: Scripting
+  - item: Web Scraping
 
 tools:
-  - item: PSpice
-  - item: Simulink
-  - item: CAD
   - item: Git & Github
   - item: MongoDB
+  - item: SQL
+  - item: Bootstrap
+
 
 frameworks:
-  - item: React JS
   - item: Angular
-  - item: NodeJS
+  - item: Node JS
+  - item: React JS
