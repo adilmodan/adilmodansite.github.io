@@ -8,7 +8,7 @@ languages:
   - item: HTML
   - item: CSS/Sass
 
-sklills:
+skills:
   - item: Circuit Analysis
   - item: Embedded Systems
   - item: Computer Organization
@@ -24,7 +24,6 @@ tools:
   - item: MongoDB
 
 frameworks:
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: Wordpress
+  - item: React JS
+  - item: Angular
+  - item: NodeJS
