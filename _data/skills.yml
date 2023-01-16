@@ -2,19 +2,22 @@ languages:
   - item: Python
   - item: JavaScript (ES6)
   - item: Java
-  - item: ARM
+  - item: Kubernetes
+  - item: Terraform
 
 skills:
   - item: Web Development
   - item: Data Modeling and Analysis
   - item: Scripting
-  - item: Web Scraping
+  - item: Building IAC Pipelines
+
 
 tools:
   - item: Git & Github
   - item: MongoDB
   - item: SQL
   - item: Bootstrap
+  - item: AWS
 
 
 frameworks:
